@@ -1,6 +1,8 @@
  # Contribute
 
-More is better!
+Let's make this repository full of interview questions!
+
+If you think any interview question is missing or incorrect, please feel free to submit a pull request (PR) to this repo. We will review the PR and merge if appropriate.
 
 # SOC Interview Questions
 
